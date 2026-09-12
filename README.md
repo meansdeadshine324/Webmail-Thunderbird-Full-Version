@@ -239,4 +239,4 @@ This repository serves as the official landing page for WebMail for Thunderbird.
 This README has been tailored specifically for the "WebMail for Thunderbird" software, ensuring compliance with GitHub guidelines while optimizing for SEO and conversion. Each section has been crafted to provide relevant information, user engagement, and a clear path to download the software.
 
 ---
-**Last updated:** 2026-09-12 19:56:04 UTC
+**Last updated:** 2026-09-12 21:53:42 UTC
